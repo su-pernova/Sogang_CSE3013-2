@@ -1,0 +1,14 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+\\mac\home\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+\\mac\home\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+\\mac\home\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     bin\CS_project_debug.lib 라이브러리 및 bin\CS_project_debug.exp 개체를 생성하고 있습니다.
+  CS_project.vcxproj -> \\Mac\Home\Desktop\of_v0.11.2_vs2017_release\apps\myApps\CS_project\bin\CS_project_debug.exe
+  
+  	                   2	\\Mac\Home\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *추가 파일  		 6018560	\\Mac\Home\Desktop\of_v0.11.2_vs2017_release\apps\myApps\CS_project\bin\FreeImage.dll
+  
+  	                   1	\\Mac\Home\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *추가 파일  		 1544704	\\Mac\Home\Desktop\of_v0.11.2_vs2017_release\apps\myApps\CS_project\bin\fmod.dll
+  	  *추가 파일  		 1733120	\\Mac\Home\Desktop\of_v0.11.2_vs2017_release\apps\myApps\CS_project\bin\fmodL.dll
